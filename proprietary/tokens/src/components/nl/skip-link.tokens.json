@@ -1,0 +1,15 @@
+{
+  "nl": {
+    "skip-link": {
+      "background-color": { "value": "{ams.skip-link.background-color}" },
+      "color": { "value": "{ams.skip-link.color}" },
+      "font-family": { "value": "{ams.skip-link.font-family}" },
+      "font-size": { "value": "{ams.skip-link.font-size}" },
+      "font-weight": { "value": "{ams.skip-link.font-weight}" },
+      "line-height": { "value": "{ams.skip-link.line-height}" },
+      "text-decoration": { "value": "none" },
+      "padding-block": { "value": "{ams.skip-link.padding-block}" },
+      "padding-inline": { "value": "{ams.skip-link.padding-inline}" }
+    }
+  }
+}

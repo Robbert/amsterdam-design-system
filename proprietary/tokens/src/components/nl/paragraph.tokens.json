@@ -1,0 +1,15 @@
+{
+  "nl": {
+    "paragraph": {
+      "color": { "value": "{ams.paragraph.color}" },
+      "font-family": { "value": "{ams.paragraph.font-family}" },
+      "font-size": { "value": "{ams.paragraph.font-size}" },
+      "font-weight": { "value": "{ams.paragraph.font-weight}" },
+      "line-height": { "value": "{ams.paragraph.line-height}" },
+      "lead": {
+        "font-size": { "value": "{ams.paragraph.large.font-size}" },
+        "line-height": { "value": "{ams.paragraph.large.line-height}" }
+      }
+    }
+  }
+}

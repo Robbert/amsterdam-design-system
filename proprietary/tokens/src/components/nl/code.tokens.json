@@ -1,0 +1,8 @@
+{
+  "nl": {
+    "code": {
+      "background-color": { "value": "{ams.brand.color.neutral.20}" },
+      "color": { "value": "{ams.brand.color.neutral.100}" }
+    }
+  }
+}

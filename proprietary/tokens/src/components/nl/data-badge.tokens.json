@@ -1,0 +1,13 @@
+{
+  "nl": {
+    "data-badge": {
+      "background-color": { "value": "{ams.badge.green.background-color}" },
+      "color": { "value": "{ams.badge.green.color}" },
+      "font-family": { "value": "{ams.badge.font-family}" },
+      "font-size": { "value": "{ams.badge.font-size}" },
+      "font-weight": { "value": "{ams.badge.font-weight}" },
+      "line-height": { "value": "{ams.badge.line-height}" },
+      "padding-inline": { "value": "{ams.badge.padding-inline}" }
+    }
+  }
+}
